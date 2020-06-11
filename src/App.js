@@ -181,7 +181,7 @@ function App() {
                                         </li>
                       </ul>
 
-                      <h3> <a href="#">UET Community (WebRTC) (Mar 2020 - Jun 2020)</a></h3>
+                      <h3> <a href="#">JobSeeker (Mar 2020 - Jun 2020)</a></h3>
                       <ul>
                         <li>Direct link:
                                             <a href="#">Private</a>
